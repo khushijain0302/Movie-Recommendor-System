@@ -128,9 +128,9 @@ def footer():
         image('https://avatars3.githubusercontent.com/u/45109972?s=400&v=4',
               width=px(25), height=px(25)),
         " with ❤️ by ",
-        link("https://twitter.com/ChristianKlose3", "@khushijain0302"),
+        link("https://twitter.com/khushijain0302", "@khushijain0302"),
         br(),
-        link("https://buymeacoffee.com/chrischross", image('https://i.imgur.com/thJhzOO.png')),
+        link("https://buymeacoffee.com/khushijain0302", image('https://i.imgur.com/thJhzOO.png')),
     ]
     layout(*myargs)
 
